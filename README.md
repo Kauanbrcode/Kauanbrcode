@@ -1,20 +1,22 @@
 # 👨‍💻 Olá, eu sou Kauan!
 
-### Java Developer in Progress 🚀
+### Dev Full-Stack Jr | Java • Python • SQL & NoSQL • Desenvolvimento Web 🚀
 
-Sou estudante de programação e tecnologia, atualmente focado em aprender **Java** e desenvolver minhas habilidades na área de desenvolvimento de software.
+Sou estudante de tecnologia e desenvolvimento de software, interessado em construir soluções e aprimorar minhas habilidades na programação.
 
-Estou construindo minha jornada na programação, aprendendo na prática e criando projetos para evoluir cada vez mais.
+Atualmente, estou focado em evoluir meus conhecimentos, desenvolver projetos e crescer como desenvolvedor.
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- ☕ Atualmente estudando Java.
-- 💻 Interessado em desenvolvimento de software.
-- 🚀 Sempre buscando aprender novas tecnologias.
-- 📚 Evoluindo através de estudos e projetos práticos.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas — Senac DF.
+- 💻 Dev Full-Stack Jr em formação.
+- ☕ Estudando Java.
+- 🐍 Interesse em Python.
+- 🗄️ Conhecimentos e estudos em SQL e NoSQL.
+- 🌐 Interesse em desenvolvimento Web.
+- 🚀 Sempre buscando aprender e desenvolver novos projetos.
 
 ---
 
@@ -22,7 +24,7 @@ Estou construindo minha jornada na programação, aprendendo na prática e crian
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql" height="50" />
 
 </div>
 
@@ -40,23 +42,28 @@ Estou construindo minha jornada na programação, aprendendo na prática e crian
 
 ---
 
-## 🔥 Minha jornada
+## 🎯 Atualmente focado em
 
-Atualmente estou focado em:
-
-- Aprender os fundamentos da programação.
-- Desenvolver minha lógica de programação com Java.
-- Criar projetos próprios.
-- Aprimorar minhas habilidades como desenvolvedor.
+- Aprimorar minha lógica de programação.
+- Estudar Java e desenvolvimento de software.
+- Aprender e praticar Python.
+- Desenvolver projetos próprios.
+- Evoluir como desenvolvedor Full-Stack.
 
 ---
 
-## 📫 Onde me encontrar
+## 🌐 Conecte-se comigo
 
 <div align="center">
 
   <a href="https://github.com/Kauanbrcode">
-    <img src="https://img.shields.io/badge/GitHub-Kauanbrcode-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kauan-david-a810073b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/kauanbrcodes">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
 </div>
@@ -65,7 +72,7 @@ Atualmente estou focado em:
 
 <div align="center">
 
-  **"A melhor maneira de aprender a programar é programando."**
+  **"Transformando aprendizado em projetos, um código de cada vez."** 💻
 
   Obrigado por visitar meu perfil! 🚀
 
